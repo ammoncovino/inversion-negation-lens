@@ -1,0 +1,5 @@
+Trigger build
+
+This file was added to trigger the GitHub Actions build and generate the EPUB/PDF artifacts.
+
+Timestamp: 2026-08-26
